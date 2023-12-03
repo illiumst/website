@@ -39,7 +39,7 @@ atom_feed:
   hide                   : true # true, false (default)
 
 # SEO Related
-google_site_verification :
+google_site_verification : ZNT7_sXtFdgqBLCPLavTHWcviZRk__BNvClY8I-sFjU
 bing_site_verification   :
 naver_site_verification  :
 yandex_site_verification :
@@ -59,7 +59,7 @@ social:
 author:
   name             : "Steffen Illium"
   avatar           : "/assets/images/headshot.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "[AI Research](/research/) and [Lecturer](/teaching/) as [PHD Student](https://www.mobile.ifi.lmu.de/team/steffen-illium/) @ [LMU Munich](https://www.lmu.de/en/index.html)"
+  bio              : "[AI Researcher](/research/) and [Lecturer](/teaching/), [PHD Student](https://www.mobile.ifi.lmu.de/team/steffen-illium/) @ [LMU Munich](https://www.lmu.de/en/index.html)"
   location         : "Augsburg"
   links:
     - label: "LMU-Munich"
