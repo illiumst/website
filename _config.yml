@@ -14,7 +14,7 @@
 theme                    : "minimal-mistakes-jekyll"
 
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -75,7 +75,7 @@ author:
       icon: "ai ai-researchgate"
       url: "https://www.researchgate.net/profile/Steffen-Illium"
 
-    
+
 
 # Site Footer
 footer:
@@ -256,10 +256,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: false
+      read_time: true
       comments: false
       share: false
-      related: false
+      related: true
       show_date: true
 
 scholar:

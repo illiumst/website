@@ -7,7 +7,7 @@ h2 {
 }
 
 .table-right {
-  // font-size: 28px !important; 
+  // font-size: 28px !important;
   font: 21px/1.4 Helvetica,"Helvetica Neue",Arial,sans-serif;
   padding-left: 1.5em;
   align-content: "center";
@@ -452,7 +452,7 @@ max-width: 180px;
   .feature__wrapper {
     .archive__item-title {
       margin-top: 0.25em;
-      font-size: 1em;
+      font-size: $my-text-size;
     }
   }
 
@@ -460,7 +460,7 @@ max-width: 180px;
   .feature__item--left,
   .feature__item--center,
   .feature__item--right {
-    font-size: 1em;
+    font-size: $my-text-size;
   }
 }
 
