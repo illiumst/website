@@ -213,7 +213,7 @@ figure {
   -webkit-box-align: start;
   align-items: flex-start;
   flex-wrap: wrap;
-  margin: 2em 0;
+  margin: 0em 0;
 
   img,
   iframe,
@@ -266,7 +266,7 @@ figure {
       width: 100%;
     }
   }
-  
+
   &.fourth {
     > p,
     > a,
@@ -287,7 +287,7 @@ figure {
     > a {
 
       font-size: 0%;
-      
+
       @include breakpoint($small) {
         font-size: 0%;
       }
@@ -311,8 +311,8 @@ figure {
     > p,
     > a,
     > img {
-     
-      width: calc(15% - 0.5em);   
+
+      width: calc(15% - 0.5em);
     }
 
     figcaption {
