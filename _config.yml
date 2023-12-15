@@ -29,7 +29,7 @@ repository               : "illiumst" # GitHub username/repo-name e.g. "mmistake
 teaser                   : "/assets/images/headshot.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "portfolio" # overrides the website title displayed in the masthead, use " " for no title
-breadcrumbs              : true # true, false (default)
+breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
 reCaptcha:
   siteKey                :
@@ -263,8 +263,10 @@ defaults:
       show_date: true
 
 scholar:
-  style: modern-language-association
+  style: acm-siggraph
   bibliography: _bibliography.bib
+  repository: "./assets/publications"
+  bibliography_template: bibtemplate
   source: ""
   sort_by: year,month
   order: descending
