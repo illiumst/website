@@ -34,6 +34,9 @@ Please see for yourself. :hugs:
     <a href="https://www.mobile.ifi.lmu.de/team/steffen-illium/" style="vertical-align:middle">
     <img src="/assets/images/research/lmu.png" style="margin-bottom: 0em;">LMU</a>
 
+    <a href="https://www.semanticscholar.org/author/Steffen-Illium/51893497" style="vertical-align:middle">
+    <img src="/assets/images/research/semschol.png" style="margin-bottom: 0em;">Semantic</a>
+
     </figure>
 </center>
 
