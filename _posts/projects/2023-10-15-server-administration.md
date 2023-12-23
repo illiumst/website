@@ -4,7 +4,7 @@ title:  "Linux Server Administration"
 categories: projects server_admin unix
 excerpt: "Linux Server Administration (Workstations and Web)"
 header:
-  teaser: assets/images/projects/arch.png
+  teaser: assets/images/projects/arch.png
 ---
 ![logo](\assets\images\projects\arch.png){: .align-left style="padding:0.1em; width:5em"}
 During my time at the Mobile Distributed Systems Chair, I also supported my colleagues regarding the setup and maintenance of our workstations, the Windows server hypervisor, our Linux file server, and our networking infrastructure.
