@@ -2,7 +2,7 @@
 layout: single
 title:  "Detection and localization of leakages in water networks."
 categories: projects
-excerpt: "A u"
+excerpt: "We researched the possibilities of leakage detection in real-world water networks in Munich’s suburbs."
 tags: acoustic anomaly-detection 
 header:
   teaser: assets/images/projects/pipe_leak.png

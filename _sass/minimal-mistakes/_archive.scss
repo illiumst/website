@@ -6,6 +6,22 @@ h2 {
   margin-top: 1.5em ;
 }
 
+.table-left {
+  // font-size: 28px !important;
+  font: 21px/1.4 Helvetica,"Helvetica Neue",Arial,sans-serif;
+  padding-right: 1.5em;
+  align-content: "center";
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+  @include breakpoint($small) {
+    float: left;
+    margin-left: 1em;
+    margin-bottom: 0em;
+  }
+}
+
 .table-right {
   // font-size: 28px !important;
   font: 21px/1.4 Helvetica,"Helvetica Neue",Arial,sans-serif;
@@ -18,7 +34,7 @@ h2 {
   @include breakpoint($small) {
     float: right;
     margin-right: 1em;
-    margin-bottom: 1em;
+    margin-bottom: 0em;
   }
 }
 
