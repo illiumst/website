@@ -3,19 +3,31 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: single
-author_profile: true
+author_profile: false
 title: "about me"
 canonical_url: "https://steffenillium.de"
 permalink: "/about"
 ---
 
-Working at a university means being a teacher in classes, an advisor in practical classes, a speaker, or an organizer in lectures. On the respective pages, you can learn more about my [teaching](teaching) and my [research](research) topics.
+<div class="table-right">
 
-Working on [projects](projects) on behalf of or with partners from industry was another task. Here I learned about audio signal processing and the training of deep neural networks in the context of sequences and image data. In my final year, I was given the opportunity to study multi-agent reinforcement learning in the context of safety and emergent phenomena in fused industrial environments.
-Together with my personal interests, this formed the basis for the [publications](publications) we were fortunate enough to work on, as well as the skills I aquired over the course of my time.
+|![logo](\assets\images\longshot.jpg){: style="margin:0em; padding:0em; width:10em"}|
+|:--:| 
+| **Steffen Illium**<br>*AI Researcher & Data Scientist*<br>*PHD Student @ LMU Munich*<br>*Living in Augsburg*|
 
-Over the course of my time, my colleagues and I came to work on what were called '*hobbies*', which led me to being the head organizer of a [open-source conference](https://openmunich.eu).
-Soon thereafter, I took over the editorial office of our [online magazine](https://digitaleweltmagazin.de/). I was fortunate to have the opportunity to work in positions and with tools I had never imagined.
+</div>
+
+Working at a university means being a teacher in theoretical classes, an advisor in practical classes, a speaker and an organizer for lectures. In the respective pages, you can learn more about my [teaching](teaching) and [research](research) topics.
+
+Working on [projects](projects) on behalf of or together with industry partners was another task. Here I learned, e.g. about audio signal processing and training of deep neural networks in the context of sequences and image data. 
+In my final year, I was given the opportunity to study multi-agent reinforcement learning in the context of safety and emergent phenomena in fused industrial environments.
+Together with my personal interests, this formed the basis for the [publications](publications) we were fortunate enough to work on, as well as the skills I aquired over the course of time.
+
+Furthermore, my colleagues and I worked on what we called '*hobbies*', which led me to being the head organizer of an [open-source conference](https://openmunich.eu).
+Soon thereafter, I took over the editorial office of our [online magazine](https://digitaleweltmagazin.de/).
+I was fortunate to get the opportunity to work in various roles and with tools I had never imagined before.
+
+---
 
 Roles:
 <br>
@@ -108,3 +120,30 @@ Programs:
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 
 Thank you for coming here :wave:
+
+---
+
+Publications:
+<br>
+
+<figure class="research_icons" style="max-width: 70%; text-align:center;">
+
+<a href="https://scholar.google.de/citations?user=NODAd94AAAAJ&hl=en">
+<img src="/assets/images/research/google_scholar.png"  style="margin-bottom: 0em;">Scholar</a>
+
+<a href="https://arxiv.org/a/illium_s_1">
+<img src="/assets/images/research/arxiv.png" style="margin-bottom: 0em;">arXiv</a>
+
+<a href="https://www.researchgate.net/profile/Steffen-Illium">
+<img src="/assets/images/research/researchgate.png" style="margin-bottom: 0em;">R-Gate</a>
+
+<a href="https://orcid.org/0000-0003-0021-436X" style="vertical-align:middle">
+<img src="/assets/images/research/orcid.png" style="margin-bottom: 0em;">ORCiD</a>
+
+<a href="https://www.mobile.ifi.lmu.de/team/steffen-illium/" style="vertical-align:middle">
+<img src="/assets/images/research/lmu.png" style="margin-bottom: 0em;">LMU</a>
+
+<a href="https://www.semanticscholar.org/author/Steffen-Illium/51893497" style="vertical-align:middle">
+<img src="/assets/images/research/semschol.png" style="margin-bottom: 0em;">Semantic</a>
+
+</figure>

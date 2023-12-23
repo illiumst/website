@@ -26,7 +26,7 @@ description              : "Personal Website"
 url                      : "https://steffenillium.de" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "illiumst" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/headshot.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/newshot_2.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "portfolio" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : false # true, false (default)
@@ -46,7 +46,7 @@ yandex_site_verification :
 baidu_site_verification  :
 
 # Social Sharing
-og_image                 : "/assets/images/headshot.jpg" # Open Graph/Twitter default site image
+og_image                 : "/assets/images/newshot_2.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -58,7 +58,7 @@ social:
 # Site Author
 author:
   name             : "Steffen Illium"
-  avatar           : "/assets/images/headshot.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/newshot_2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "[AI Researcher](/research/) and [Lecturer](/teaching/), [PHD Student](https://www.mobile.ifi.lmu.de/team/steffen-illium/) @ [LMU Munich](https://www.lmu.de/en/index.html)"
   location         : "Augsburg"
   links:
