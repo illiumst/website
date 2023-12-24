@@ -6,7 +6,7 @@ layout: single
 author_profile: false
 title: "about me"
 canonical_url: "https://steffenillium.de"
-permalink: "/about"
+permalink: "/about/"
 ---
 
 <div class="table-right">
