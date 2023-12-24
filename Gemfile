@@ -31,4 +31,5 @@ group :jekyll_plugins do
   gem 'jemoji'
   gem 'jekyll-archives'
   gem 'jekyll-include-cache'
+  gem 'jekyll-webp'
 end

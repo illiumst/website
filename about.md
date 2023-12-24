@@ -129,7 +129,7 @@ Publications:
 <figure class="research_icons" style="max-width: 70%; text-align:center;">
 
 <a href="https://scholar.google.de/citations?user=NODAd94AAAAJ&hl=en">
-<img src="/assets/images/research/google_scholar.png"  style="margin-bottom: 0em;">Scholar</a>
+<img src="/assets/images/research/google_scholar.png" style="margin-bottom: 0em;">Scholar</a>
 
 <a href="https://arxiv.org/a/illium_s_1">
 <img src="/assets/images/research/arxiv.png" style="margin-bottom: 0em;">arXiv</a>
