@@ -6,6 +6,8 @@ excerpt: "We researched the possibilities of leakage detection in real-world wat
 tags: acoustic anomaly-detection 
 header:
   teaser: assets/images/projects/pipe_leak.png
+role: Data Scientist, Machine Learning Expert
+skills: Real-world model application
 ---
 
 ![Leaking pipe image](/assets/images/projects/pipe_leak.png){: .align-left style="padding:0.1em; width:5em"}
