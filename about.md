@@ -27,6 +27,8 @@ Furthermore, my colleagues and I worked on what we called '*hobbies*', which led
 Soon thereafter, I took over the editorial office of our [online magazine](https://digitaleweltmagazin.de/).
 I was fortunate to get the opportunity to work in various roles and with tools I had never imagined before.
 
+[Grab my CV here](\assets\illium_cv_censored.pdf){: .btn .btn--success}
+
 ---
 
 Roles:
@@ -119,8 +121,6 @@ Programs:
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 
-Thank you for coming here :wave:
-
 ---
 
 Publications:
@@ -147,3 +147,7 @@ Publications:
 <img src="/assets/images/research/semschol.png" style="margin-bottom: 0em;">Semantic</a>
 
 </figure>
+
+---
+
+Thank you for coming here :wave:
