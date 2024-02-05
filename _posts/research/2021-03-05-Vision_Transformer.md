@@ -7,9 +7,9 @@ header:
   teaser: assets/figures/12_vision_transformer_teaser.jpg
 ---
 
-![Leak-Mels](\assets\figures\12_vision_transformer_data.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
+![Approach](\assets\figures\12_vision_transformer_models.jpg){:style="display:block; width:80%" .align-center}
 
-We apply the vision transformer, a deep machine learning model build around the attention mechanism, on mel-spectrogram representations of raw audio recordings. When adding mel-based data augmentation techniques and sample-weighting, we achieve comparable performance on both (PRS and CCS challenge) tasks of ComParE21, outperforming most single model baselines. We further introduce overlapping vertical patching and evaluate the influence of parameter configurations.
+This work utilizes the vision transformer model on mel-spectrogram audio data, enhanced by mel-based data augmentation and sample weighting, to achieve notable performance in the ComParE21 challenge, surpassing many single model baselines. The introduction of overlapping vertical patching and the analysis of parameter configurations further refine the approach, demonstrating the model's adaptability and effectiveness in audio processing tasks.
 {% cite illium2021visual %}
 
-![Approach](\assets\figures\12_vision_transformer_models.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
+

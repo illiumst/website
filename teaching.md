@@ -9,8 +9,9 @@ taxonomy: teaching
 author_profile: true
 entries_layout: list
 ---
-Being a doctoral student, I was happy to also assume a teaching role, either as a mentor for undergraduate and graduate students' theses, an assistant for arranging larger lectures, or as a facilitator for practical seminars and courses.
-Below, you'll find a list of subjects in which I played an assisting or leading role.
-A comprehensive listing of past thesis topics can be accessed on my [LMU profile page](https://www.mobile.ifi.lmu.de/team/steffen-illium/).
+As a doctoral student, embracing the role of an educator brought me great joy, whether it was mentoring undergraduate and graduate students on their theses, assisting in the organization of larger lectures, or leading practical seminars and courses. Below is a list of subjects where I contributed either as an assistant or as the main instructor. 
+
+For a detailed list of thesis topics I have supervised, please visit my [LMU profile page](https://www.mobile.ifi.lmu.de/team/steffen-illium/).
+
 
 ---

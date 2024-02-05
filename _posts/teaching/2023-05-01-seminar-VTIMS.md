@@ -8,8 +8,7 @@ header:
 ---
 
 ![logo](\assets\images\teaching\thesis_master.png){: .align-left style="padding:0.1em; width:5em"}
-This seminar deals with selected topics from the field of mobile and distributed systems, in particular from the main research topics of the chair.
-In recent semesters, this has led to a focus on topics from the field of machine learning and quantum computing.
+The seminar explores topics in mobile and distributed systems, especially those aligning with the chair's research interests, recently emphasizing machine learning and quantum computing.
 
 ### Content
 <div class="table-right">
@@ -21,6 +20,4 @@ In recent semesters, this has led to a focus on topics from the field of machine
 | [2021](https://www.mobile.ifi.lmu.de/lehrveranstaltungen/seminar-vertiefte-themen-in-mobilen-und-verteilten-systemen-sose21/)| [2021](https://www.mobile.ifi.lmu.de/lehrveranstaltungen/seminar-vertiefte-themen-in-mobilen-und-verteilten-systemen-ws2122/) |
 | --- |[2020](https://www.mobile.ifi.lmu.de/lehrveranstaltungen/seminar-vertiefte-themen-in-mobilen-und-verteilten-systemen-ws2021/)|
 
-</div>One aim of the seminar is also to learn and practise scientific working techniques. To this end, a course on presentation and working techniques is offered during the semester and supplemented by individual presentation coaching/feedback.
-
-The final grade for the seminar is based on the quality of the academic work, the presentation and active participation in the seminars.
+</div>The seminar aims to teach and practice scientific working techniques, offering a course on presentation and working methods plus individual coaching. Grades are based on academic work, presentation quality, and seminar participation.

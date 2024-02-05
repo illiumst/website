@@ -6,8 +6,6 @@ excerpt: "Team market value estimation, similarity search and rankings."
 header:
   teaser: assets/figures/2_steve_algo.jpg
 ---
+![STEVE Algorithm](\assets\figures\2_steve_algo.jpg){:style="display:block; width:60%" .align-center}
 
-In this work we present STEVE - Soccer TEam VEctors, a principled approach for learning real valued vectors for soccer teams where similar teams are close to each other in the resulting vector space. STEVE only relies on freely available information about the matches teams played in the past. These vectors can serve as input to various machine learning tasks. Evaluating on the task of team market value estimation, STEVE outperforms all its competitors. Moreover, we use STEVE for similarity search and to rank soccer teams.
-{% cite muller2020soccer %}
-
-![STEVE Algorithm](\assets\figures\2_steve_algo.jpg){:style="display:block; margin-left:auto; margin-right:auto;"}
+This study introduces STEVE (Soccer Team Vectors), a novel method for generating real-valued vectors representing soccer teams, organized so that similar teams are proximate in vector space. Utilizing publicly available match data, these vectors facilitate various machine learning applications, notably excelling in team market value estimation and enabling effective similarity search and team ranking. STEVE demonstrates superior performance over competing models in these domains. For further details, please consult the work by {% cite muller2020soccer %}.

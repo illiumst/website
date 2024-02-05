@@ -8,11 +8,11 @@ title: "publications"
 permalink: /publications/
 ---
 
-This is a list of scientific papers to which I have contributed or which were based on my research and ideas.
-Due to my interest in the general principles of deep learning and neural networks, the topics range from deep dives into the inner workings to real-world applications of neural networks.
-Certainly, the latter were influenced by the [projects](/projects) I was involved in and working on.
-Moreover, my colleagues and I were full of excitement, pursuing rather exotic concepts.
-Please see for yourself. :hugs:
+This section presents a collection of scientific papers to which I have contributed, or that were inspired by my research and ideas. 
+My keen interest in the foundational principles of deep learning and neural networks has led me to explore a wide array of topics, ranging from in-depth analyses of their inner mechanisms to practical applications in various domains. 
+Many of these endeavors were directly influenced by the [projects](/projects) I participated in. 
+Alongside my colleagues, driven by curiosity and enthusiasm, we ventured into the exploration of somewhat unconventional concepts. I invite you to explore these works and share in our journey of discovery. 🤗
+
  
 ---
 
