@@ -10,10 +10,10 @@ permalink: "/"
 entries_layout: grid
 ---
 
-Hey, glad you found me! :wave:
+Welcome, and thank you for visiting! :wave:
 
-This web page is intended to provide an [overview of my current professional life](/about) as a doctoral student at the Ludwig Maximilian's University, Munich ([LMU Munich](https://www.lmu.de)). 
-Please find futher details on pages in the upperhand menu.<br>
+This website is designed to give you a comprehensive [overview of my journey](/about) as a doctoral student at Ludwig Maximilian University, Munich ([LMU Munich](https://www.lmu.de)). 
+For more detailed information, please explore the options available in the top menu.<br>
 <figure class="third">
   <img src="/assets/images/photo/bike.jpg" alt="Bike in the Garden">
 
@@ -21,4 +21,5 @@ Please find futher details on pages in the upperhand menu.<br>
   
   <img src="/assets/images/photo/azores.jpg" alt="Rough, stormy coastline of the Azores with pink flowers on green gras in foreground">
 </figure>
-This sites' general structure follows the structure of my last five years of worklife, which can basicaly be devided in [research](/research), [teaching](/teaching), work on [projects](/projects) and resulting [publications](/publications). Just have a look aroung and thanks for coming here :blush:
+
+Reflecting the diverse facets of my professional life over the past five years, the structure of this site encompasses my [endeavors in research](/research), [teaching](\teaching), [projects](/projects), and [publications](/publications). Feel free to browse through and discover more about my work. I appreciate your interest! :blush:

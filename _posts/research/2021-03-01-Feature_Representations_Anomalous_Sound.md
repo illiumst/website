@@ -7,7 +7,6 @@ header:
   teaser: assets/figures/8_anomalous_sound_teaser.jpg
 ---
 
-![Pipeline](\assets\figures\8_anomalous_sound_features.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
-
-The problem of Constructive Solid Geometry (CSG) tree reconstruction from 3D point clouds or 3D triangle meshes is hard to solve. At first, the input data set (point cloud, triangle soup or triangle mesh) has to be segmented and geometric primitives (spheres, cylinders, ...) have to be fitted to each subset. Then, the size- and shape optimal CSG tree has to be extracted. We propose a pipeline for CSG reconstruction consisting of multiple stages: A primitive extraction step, which uses deep learning for primitive detection, a clustered variant of RANSAC for parameter fitting, and a Genetic Algorithm (GA) for convex polytope generation. It directly transforms 3D point clouds or triangle meshes into solid primitives. The filtered primitive set is then used as input for a GA-based CSG extraction stage. We evaluate two different CSG extraction methodologies and furthermore compare our pipeline to current state-of-the-art methods.
+![Pipeline](\assets\figures\8_anomalous_sound_features.jpg){:style="display:block; width:40%" .align-right}
+This study explores the use of pretrained neural networks as feature extractors for detecting anomalous sounds, utilizing these networks to derive semantically rich features for a Gaussian Mixture Model that estimates normality. It examines extractors trained on diverse data domains—images, environmental sounds, and music—applied to industrial noises from machinery. Surprisingly, features based on music data often surpass others, including an autoencoder baseline, suggesting that domain similarity between extractor training and application might not always correlate with performance improvement.
 {% cite muller2020analysis %}

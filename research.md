@@ -11,8 +11,7 @@ author_profile: true
 entries_layout: grid
 ---
 
-Here you'll find an overview over the papers in which I am listed either as first author or was involved in the process and listed down the line.
-This ranges from the developing the initial idea, to implementing and tuning machine learning models to help my coleagues or simply discussing and checking on a piece of work.
+Here you'll find a curated overview of the papers where I have played a pivotal role, either as the first author or as a contributing author further down the authorship line. My involvement has spanned a variety of activities, from conceptualizing the initial ideas and developing machine learning models, to providing support and insights to my colleagues, or rigorously reviewing and refining the work.
 
 ## List of Papers
 

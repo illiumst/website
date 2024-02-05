@@ -7,11 +7,10 @@ header:
   teaser: assets/figures/17_vp_teaser.jpg
 ---
 
-![Organism Network Architecture](\assets\figures\17_vp_lion.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
+![Organism Network Architecture](\assets\figures\17_vp_lion.jpg){:style="display:block; width:85%" .align-center}
 
-Overfitting is a problem in Convolutional Neural Networks (CNN) that causes poor generalization of models on unseen data. To remediate this problem, many new and diverse data augmentation methods (DA) have been proposed to supplement or generate more training data, and thereby increase its quality. In this work, we propose a new data augmentation algorithm: VoronoiPatches (VP). We primarily utilize non-linear recombination of information within an image, fragmenting and occluding small information patches. Unlike other DA methods, VP uses small convex polygon-shaped patches in a random layout to transport information around within an image. Sudden transitions created between patches and the original image can, optionally, be smoothed. In our experiments, VP outperformed current DA methods regarding model variance and overfitting tendencies. We demonstrate data augmentation utilizing non-linear re-combination of information within images, and non-orthogonal shapes and structures improves CNN model robustness on unseen data.
-{% cite illium2022voronoipatches %}
+This study introduces VoronoiPatches (VP), a novel data augmentation algorithm that enhances Convolutional Neural Networks' performance by using non-linear recombination of image information. VP distinguishes itself by utilizing small, convex polygon-shaped patches in random layouts to redistribute information within an image, potentially smoothing transitions between patches and the original image. This method has shown to outperform existing data augmentation techniques in reducing model variance and overfitting, thus improving the robustness of CNN models on unseen data. {% cite illium2022voronoipatches %}
 
-:trophy: This paper won the conference's [Best Poster Award](https://icaart.scitevents.org/PreviousAwards.aspx?y=2024#2023), which is a special honor. :trophy:
+:trophy: Our work was awarded the [Best Poster Award](https://icaart.scitevents.org/PreviousAwards.aspx?y=2024#2023) at ICAART 2023 :trophy:
 
-![Dropout](\assets\figures\17_vp_results.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
+![Dropout](\assets\figures\17_vp_results.jpg){:style="display:block; width:90%" .align-center}

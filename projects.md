@@ -10,10 +10,11 @@ author_profile: true
 entries_layout: list
 ---
 
-Here you will find an overview of the projects I worked on at the [mobile and distributed systems chair](http://www.mobile.ifi.lmu.de/).
-I had multiple roles within my time, such as technician, researcher, project communicator, conference organizer, and editor-in-chief.
-Therefore, this list consists of a mix of real industrial projects (in cooperation with SWA and Fraunhofer) and what we call “hobbies” within the chair's reach.
+Here you will find an overview of the projects I worked on at the [mobile and distributed systems chair](http://www.mobile.ifi.lmu.de/). 
+Throughout my tenure, I embraced various roles including technician, researcher, project communicator, conference organizer, and editor-in-chief. 
+As a result, the list below represents a blend of genuine industrial projects, undertaken in collaboration with SWA and Fraunhofer, as well as pursuits we affectionately refer to as “hobbies” within the ambit of the chair.
 
 ## List of Projects
+
 
 ---

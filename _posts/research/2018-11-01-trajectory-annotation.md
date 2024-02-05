@@ -6,8 +6,9 @@ excerpt: "We propose an approach to annotate trajectories using sequences of spa
 header:
   teaser: assets/figures/0_trajectory_reconstruction_teaser.png
 ---
+<figure class="half"> 
+  <img src="/assets/figures/0_trajectory_isovist.jpg" alt="" style="width:48%">
+  <img src="/assets/figures/0_trajectory_reconstruction.jpg" alt="" style="width:48%">
+</figure>
+This work establishes a foundation for enhancing interaction between robots and humans in shared spaces by developing reliable systems for verbal communication. It introduces an unsupervised learning method using neural autoencoding to learn continuous spatial representations from trajectory data, enabling clustering of movements based on spatial context. The approach yields semantically meaningful encodings of spatio-temporal data for creating prototypical representations, setting a promising direction for future applications in robotic-human interaction. {% cite feld2018trajectory %}
 
-![Isovist Concept](\assets\figures\0_trajectory_isovist.jpg){:style="display:block; margin-left:auto; margin-right:auto; width:350px"}
-In the near future, more and more machines will perform tasks in the vicinity of human spaces or support them directly in their spatially bound activities. In order to simplify the verbal communication and the interaction between robotic units and/or humans, reliable and robust systems w.r.t. noise and processing results are needed. This work builds a foundation to address this task. By using a continuous representation of spatial perception in interiors learned from trajectory data, our approach clusters movement in dependency to its spatial context. We propose an unsupervised learning approach based on a neural autoencoding that learns semantically meaningful continuous encodings of spatio-temporal trajectory data. This learned encoding can be used to form prototypical representations. We present promising results that clear the path for future applications. {% cite feld2018trajectory %}
-
-![Trajectory Reconstruction](\assets\figures\0_trajectory_reconstruction.jpg){:style="display:block; margin-left:auto; margin-right:auto; width:350px"}

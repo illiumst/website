@@ -9,25 +9,19 @@ canonical_url: "https://steffenillium.de"
 permalink: "/about/"
 ---
 
-<div class="table-right">
+<div style="text-align: center;border-collapse: collapse; border: none;" class="table-right">
 
-|![logo](\assets\images\longshot.jpg){: style="margin:0em; padding:0em; width:10em"}|
-|:--:| 
-| **Steffen Illium**<br>*AI Researcher & Data Scientist*<br>*PHD Student @ LMU Munich*<br>*Living in Augsburg*|
-
-</div>
-
-Working at a university means being a teacher in theoretical classes, an advisor in practical classes, a speaker and an organizer for lectures. In the respective pages, you can learn more about my [teaching](teaching) and [research](research) topics.
-
-Working on [projects](projects) on behalf of or together with industry partners was another task. Here I learned, e.g. about audio signal processing and training of deep neural networks in the context of sequences and image data. 
-In my final year, I was given the opportunity to study multi-agent reinforcement learning in the context of safety and emergent phenomena in fused industrial environments.
-Together with my personal interests, this formed the basis for the [publications](publications) we were fortunate enough to work on, as well as the skills I aquired over the course of time.
-
-Furthermore, my colleagues and I worked on what we called '*hobbies*', which led me to being the head organizer of an [open-source conference](https://openmunich.eu).
-Soon thereafter, I took over the editorial office of our [online magazine](https://digitaleweltmagazin.de/).
-I was fortunate to get the opportunity to work in various roles and with tools I had never imagined before.
+|![Profile Image](\assets\images\longshot.jpg){: style="margin:0em; padding:0em; width:10em"}|
+| **Steffen Illium**<br>*AI Researcher & Data Scientist*<br>*PHD Student @ LMU Munich*|
 
 [Grab my CV here](\assets\illium_cv_censored.pdf){: .btn .btn--success}
+</div>
+
+Working at a university encompasses a broad spectrum of roles including teaching theoretical courses, guiding practical sessions, and contributing as both a speaker and organizer for lectures. For further insights into my academic contributions, explore my [teaching](teaching) and [research](research) pages.
+
+My involvement in [projects](projects) often entailed collaboration with industry partners, where I delved into audio signal processing and honed my skills in training deep neural networks for analyzing sequences and image data. My final year presented a unique opportunity to investigate multi-agent reinforcement learning, focusing on safety and emergent phenomena within integrated industrial settings. This experience, combined with my personal interests, laid the groundwork for the [publications](publications) I've had the privilege to contribute to and the diverse skill set I've developed over time.
+
+Additionally, my colleagues and I pursued what we affectionately termed as '*hobbies*', which led to my role as the lead organizer of the [open-source conference](https://openmunich.eu). My journey continued as I assumed responsibility for the editorial office of our [online magazine](https://digitaleweltmagazin.de/), further broadening my professional experience and introducing me to a variety of roles and tools beyond my initial expectations.
 
 ---
 

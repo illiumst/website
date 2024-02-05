@@ -7,9 +7,9 @@ header:
   teaser: assets/figures/15_sr_journal_teaser.jpg
 ---
 
-![Children Evolution](\assets\figures\15_sr_journal_children.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
+![Children Evolution](\assets\figures\15_sr_journal_children.jpg){:style="display:block; width:65%" .align-center}
 
-A key element of biological structures is self-replication. Neural networks are the prime structure used for the emergent construction of complex behavior in computers. We analyze how various network types lend themselves to self-replication. Backpropagation turns out to be the natural way to navigate the space of network weights and allows non-trivial self-replicators to arise naturally. We perform an in-depth analysis to show the self-replicatorsâ€™ robustness to noise. We then introduce artificial chemistry environments consisting of several neural networks and examine their emergent behavior. In extension to this works previous version (Gabor et al., 2019), we provide an extensive analysis of the occurrence of fixpoint weight configurations within the weight space and an approximation of their respective attractor basins.
+This study extends previous work on self-replicating neural networks, focusing on backpropagation as a mechanism for facilitating non-trivial self-replication. It delves into the robustness of these self-replicators against noise and introduces artificial chemistry environments to observe emergent behaviors. Additionally, it provides a detailed analysis of fixpoint weight configurations and their attractor basins, enhancing the understanding of self-replication dynamics within neural networks.
 {% cite gabor2022self %}
 
-![Noise Levels](\assets\figures\15_noise_levels.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
+![Noise Levels](\assets\figures\15_noise_levels.jpg){:style="display:block; width:65%" .align-center}
