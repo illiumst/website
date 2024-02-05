@@ -9,11 +9,9 @@ header:
 role: Data Scientist, Machine Learning Expert
 skills: Real-world model application
 ---
-
 ![Leaking pipe image](/assets/images/projects/pipe_leak.png){: .align-left style="padding:0.1em; width:5em"}
 
-In cooperation with the Munich City Services ([Stadtwerke München (SWM)](https://www.swm.de/)), we researched the possibilities of leakage detection in real-world water networks.
-Therefore, we installed contact microphones directly on the infrastructure in one of Munich's suburbs. {% cite muller2021acoustic%}
+Collaborating with Munich City Services ([Stadtwerke München (SWM)](https://www.swm.de/)), our project focused on detecting leaks in water networks. We equipped Munich's suburban infrastructure with contact microphones to capture the sounds of potential leaks.
 
 <center>
     <figure class="half" style="max-width: 70%; text-align:center;">
@@ -25,9 +23,7 @@ Therefore, we installed contact microphones directly on the infrastructure in on
     </figure>
 </center><br>
 
-The feasibility study revealed the technical limitations of this undertaking. Nonetheless, we gain valuable insights. Through audio-to-mel spectrogram transformations and the power of machine learning, deep neural networks (conv. and recurrent) are more capable of extracting important features for the given task than classic ML approaches.
-In this context, our team was able to produce further publications. {% cite elsner2019deep illium2020surgical muller2020analysis illium2022empirical%}
-
+Our study highlighted technical challenges but also provided key insights. By transforming audio into mel spectrograms, we discovered that deep neural networks could identify crucial features more effectively than traditional machine learning methods, leading to further research publications.
 
 <center>
     <figure class="half" style="max-width: 70%; text-align:center;">
@@ -39,6 +35,7 @@ In this context, our team was able to produce further publications. {% cite elsn
     </figure>
 </center><br>
 
-This project ran from late 2018 until the early months of 2020.
+This project was active from late 2018 to early 2020.
+
 
 {% include reference.html %}
