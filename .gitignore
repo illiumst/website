@@ -30,10 +30,4 @@ codekit-config.json
 .sass-cache
 _asset_bundler_cache
 _site
-docs/Rakefile
-docs/_data/theme.yml
-docs/_docs/22-faq.md
-docs/_includes/after-content.html
-docs/_includes/before-related.html
-docs/_includes/comments-providers/scripts.html
-docs/_posts/2009-10-06-edge-case-broken-highlighting.md
+docs/*
