@@ -50,7 +50,6 @@ h2 {
 
   @include breakpoint($x-large) {
     width: calc(100% - #{$right-sidebar-width});
-    padding-inline-end: $right-sidebar-width;
   }
 }
 
@@ -138,13 +137,13 @@ align-content: center;
   position: relative;
   margin: auto;
   padding-right: 1em;
-  padding-bottom: 3em;
+  // padding-bottom: 3em;
   border-radius: $border-radius;
   align-content: center;
-  //display: inline;
+  display: inline;
   float: left;
   img {
-    // width: auto;
+    width: auto;
     margin: auto;
     max-height: 48px;
   }
@@ -204,52 +203,15 @@ align-content: center;
   }
 }
 
+.entries-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  column-gap: 12px;
+  row-gap: 12px;
+}  
+
 .grid__item {
   margin-bottom: 2em;
-max-width: 180px;
-
-  @include breakpoint($small) {
-    float: inline-start;
-    width: span(5 of 10);
-
-    &:nth-child(2n + 1) {
-      clear: both;
-      margin-inline-start: 0;
-    }
-
-    &:nth-child(2n + 2) {
-      clear: none;
-      margin-inline-start: gutter(of 10);
-    }
-  }
-
-  @include breakpoint($medium) {
-    margin-inline: 0; /* override margin*/
-    width: span(3 of 12);
-
-    &:nth-child(2n + 1) {
-      clear: none;
-    }
-
-    &:nth-child(4n + 1) {
-      clear: both;
-    }
-
-    &:nth-child(4n + 2) {
-      clear: none;
-      margin-inline-start: gutter(1 of 12);
-    }
-
-    &:nth-child(4n + 3) {
-      clear: none;
-      margin-inline-start: gutter(1 of 12);
-    }
-
-    &:nth-child(4n + 4) {
-      clear: none;
-      margin-inline-start: gutter(1 of 12);
-    }
-  }
 
   .page__meta {
     margin: 0 0 4px;
@@ -321,12 +283,12 @@ max-width: 180px;
 
     &:nth-child(3n + 2) {
       clear: none;
-      margin-inline-start: gutter(of 12);
+      // margin-left: gutter(of 12);
     }
 
     &:nth-child(3n + 3) {
       clear: none;
-      margin-inline-start: gutter(of 12);
+      // margin-left: gutter(of 12);
     }
 
     .feature__item-teaser {
@@ -336,7 +298,8 @@ max-width: 180px;
   }
 
   .archive__item-body {
-    padding-inline: gutter(1 of 12);
+    // padding-left: gutter(1 of 12);
+    // padding-right: gutter(1 of 12);
   }
 
   a.btn::before {
@@ -396,20 +359,20 @@ max-width: 180px;
       text-align: end;
 
       .archive__item-teaser {
-        float: inline-end;
-        width: span(5 of 12);
+        float: right;
+        // width: span(5 of 12);
       }
 
       .archive__item-teaser-list {
-        float: right;
-        width: span(5 of 12);
+        float: left;
+        // width: span(5 of 12);
       }
 
       .archive__item-body {
-        float: inline-start;
-        width: span(7 of 12);
-        padding-inline-start: gutter(1 of 12);
-        padding-inline-end: gutter(0.5 of 12);
+        float: left;
+        // width: span(7 of 12);
+        // padding-left: gutter(0.5 of 12);
+        // padding-right: gutter(1 of 12);
       }
     }
   }
@@ -446,17 +409,17 @@ max-width: 180px;
 
       .archive__item-teaser {
         margin: 0 auto;
-        width: span(5 of 12);
+        // width: span(5 of 12);
       }
 
       .archive__item-teaser-list {
         margin: 0 auto;
-        width: span(5 of 12);
+        // width: span(5 of 12);
       }
 
       .archive__item-body {
         margin: 0 auto;
-        width: span(7 of 12);
+        // width: span(7 of 12);
       }
     }
   }
