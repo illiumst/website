@@ -86,6 +86,12 @@ h2 {
   text-overflow: ellipsis;
   max-lines: 3;
 
+
+  text-align: center;
+  @include breakpoint($medium) {
+    text-align: unset;
+  }
+
   a[rel="permalink"]::before {
     content: '';
     position: absolute;

@@ -357,6 +357,12 @@ body {
 
   .archive__item-title {
     margin-top: 0;
+
+    text-align: center;
+    @include breakpoint($medium) {
+      text-align: unset;
+    }
+
   }
 
   .archive__subtitle {
