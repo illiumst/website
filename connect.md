@@ -4,7 +4,7 @@ layout: my-connect
 title: "Connect"
 excerpt: "How to connect with me."
 sitemap: false
-permalink: /connect.html
+permalink: /connect
 author_profile: false
 ---
 
