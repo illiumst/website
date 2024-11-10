@@ -1,8 +1,8 @@
 ---
 layout: single
-title:  "Linux Server Administration"
+title: IT Expert Role
 categories: projects server_admin unix
-excerpt: "Linux Server Administration (Workstations and Web)"
+excerpt: Linux Server Administration (Workstations and Web)
 header:
   teaser: assets/images/projects/arch.png
 ---

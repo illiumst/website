@@ -2,7 +2,7 @@
 layout: single
 title:  "MAS Emergence"
 categories: research multi-agent reinforcement-learning safety emergence 
-excerpt: "A Safety Perspective"
+excerpt: "A safety perspective on emergence in multi-agent reinforcement-learning"
 header:
   teaser: assets/figures/21_coins_teaser.png
 ---
