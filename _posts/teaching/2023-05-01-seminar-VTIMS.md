@@ -2,7 +2,7 @@
 layout: single
 title:  "Seminar: VTIMS"
 categories: teaching 
-excerpt: "Teaching master students how to work scientifically and how to do research as a team."
+excerpt: "Teaching master students how to do research scientifically as a team."
 header:
   teaser: assets/images/teaching/thesis_master.png
 ---

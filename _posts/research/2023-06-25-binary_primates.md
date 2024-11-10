@@ -2,7 +2,7 @@
 layout: single
 title:  "Binary Presorting"
 categories: research audio deep-learning anomalie-detection 
-excerpt: "Improving Primate Sounds Classification"
+excerpt: "Improving primate sounds classification by sublabeling"
 header:
   teaser: assets/figures/19_binary_primates_teaser.jpg
 ---

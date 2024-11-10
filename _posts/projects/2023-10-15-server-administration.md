@@ -2,7 +2,7 @@
 layout: single
 title: IT Expert Role
 categories: projects server_admin unix
-excerpt: Linux Server Administration (Workstations and Web)
+excerpt: Linux server (Workstations and Web) and cloud infrastructure administration
 header:
   teaser: assets/images/projects/arch.png
 ---

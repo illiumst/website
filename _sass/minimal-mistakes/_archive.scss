@@ -211,11 +211,11 @@ align-content: center;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
   column-gap: 12px;
-  row-gap: 12px;
+  row-gap: 8px;
 }  
 
 .grid__item {
-  margin-bottom: 2em;
+  margin-bottom: 0.5em;
 
   .page__meta {
     margin: 0 0 4px;
