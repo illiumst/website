@@ -21,7 +21,7 @@ locale                   : "en-US"
 title                    : "Steffen Illium"
 title_separator          : "---"
 subtitle                 : " " # site tagline that appears below site title in masthead
-name                     : Steffen Illium
+name                     : Dr. Steffen Illium
 description              : "Personal Website"
 url                      : "https://steffenillium.de" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -57,9 +57,9 @@ social:
 
 # Site Author
 author:
-  name             : "Steffen Illium"
+  name             : "Dr. Steffen Illium"
   avatar           : "/assets/images/newshot_2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "[AI Researcher](/research/) and [Lecturer](/teaching/), [PHD Student](https://www.mobile.ifi.lmu.de/team/steffen-illium/) @ [LMU Munich](https://www.lmu.de/en/index.html)"
+  bio              : "Senior AI Consultant @[XITASO](https://xitaso.com), [AI Researcher](/research/) [PhD](https://www.mobile.ifi.lmu.de/team/steffen-illium/) by [LMU Munich](https://www.lmu.de/en/index.html)"
   location         : "Augsburg"
   links:
     - label: "LMU-Munich"
