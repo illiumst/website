@@ -59,7 +59,7 @@ social:
 author:
   name             : "Steffen Illium"
   avatar           : "/assets/images/newshot_2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "[PhD. in Comp. Science](https://www.mobile.ifi.lmu.de/team/steffen-illium/) <br>Senior AI Consultant @[XITASO](https://xitaso.com)<br>[AI Researcher](/research/)"
+  bio              : "[PhD. in Comp. Science](https://www.mobile.ifi.lmu.de/team/steffen-illium/) <br>[AI Consultant & Researcher](/research/)"
   location         : "Augsburg"
   links:
     - label: "LMU-Munich"
