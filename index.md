@@ -12,7 +12,7 @@ entries_layout: grid
 
 Welcome, and thank you for visiting! :wave:
 
-This website is designed to give you a comprehensive [overview of my journey](/about) as a doctoral student at Ludwig Maximilian University, Munich ([LMU Munich](https://www.lmu.de)). 
+This is my portfolio page build to share a comprehensive [overview](/about) of my academic and prrofessional journey.
 For more detailed information, please explore the options available in the top menu.<br>
 <figure class="third">
   <img src="/assets/images/photo/bike.jpg" alt="Bike in the Garden">
@@ -22,4 +22,4 @@ For more detailed information, please explore the options available in the top m
   <img src="/assets/images/photo/azores.jpg" alt="Rough, stormy coastline of the Azores with pink flowers on green gras in foreground">
 </figure>
 
-Reflecting the diverse facets of my professional life over the past five years, the structure of this site encompasses my [endeavors in research](/research), [teaching](\teaching), [projects](/projects), and [publications](/publications). Feel free to browse through and discover more about my work. I appreciate your interest! :blush:
+Reflecting the diverse facets of my professional life over the past years, the structure of this site encompasses my [endeavors in research](/research), [teaching](\teaching), [projects](/projects), and [publications](/publications). Feel free to browse through and discover more about my work. I appreciate your interest! :blush:
