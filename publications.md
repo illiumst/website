@@ -1,18 +1,23 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
+title: "Publications"
+permalink: /publications/
 layout: single
 author_profile: true
-title: "publications"
-permalink: /publications/
+scholar_link: "https://scholar.google.de/citations?user=NODAd94AAAAJ&hl=en"
 ---
 
-This section presents a collection of scientific papers to which I have contributed, or that were inspired by my research and ideas. 
-My keen interest in the foundational principles of deep learning and neural networks has led me to explore a wide array of topics, ranging from in-depth analyses of their inner mechanisms to practical applications in various domains. 
-Many of these endeavors were directly influenced by the [projects](/projects) I participated in. 
-Alongside my colleagues, driven by curiosity and enthusiasm, we ventured into the exploration of somewhat unconventional concepts. I invite you to explore these works and share in our journey of discovery. 🤗
+This section highlights my contributions to scientific literature. My research primarily focuses on advancing the understanding and application of machine learning and deep neural networks.
 
+Key areas of investigation reflected in my publications include:
+
+*   **Foundational Deep Learning:** Analyses of neural network mechanisms and core principles.
+*   **Methodological Development:** Novel techniques in Data Augmentation & Synthesis, Classification & Segmentation, Anomaly & Out-of-Distribution (OOD) Detection.
+*   **Advanced Systems:** Exploration of Multi-Agent Reinforcement Learning (MARL), emergence, and safety considerations.
+*   **Applied Domains:** Leveraging these techniques in areas such as Geoinformatics, audio analysis, and sequence modeling, often stemming from collaborative [projects](/projects).
+
+The publications listed below represent significant outputs from my doctoral studies at LMU Munich and ongoing research activities, contributing to both foundational knowledge and practical solutions.
+
+For a comprehensive and continuously updated list of my publications, please visit my profile on <a href="{{ page.scholar_link }}" target="_blank" rel="noopener noreferrer">Google Scholar</a>.
  
 ---
 

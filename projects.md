@@ -1,8 +1,5 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-title: "projects"
+title: "Projects"
 permalink: /projects/
 layout: category
 taxonomy: projects
@@ -10,11 +7,12 @@ author_profile: true
 entries_layout: list
 ---
 
-Here you will find an overview of the projects I worked on at the [mobile and distributed systems chair](http://www.mobile.ifi.lmu.de/). 
-Throughout my tenure, I embraced various roles including technician, researcher, project communicator, conference organizer, and editor-in-chief. 
-As a result, the list below represents a blend of genuine industrial projects, undertaken in collaboration with SWA and Fraunhofer, as well as pursuits we affectionately refer to as “hobbies” within the ambit of the chair.
+This section details key projects undertaken during my tenure as a Research Assistant and PhD candidate at the [Chair for Mobile and Distributed Systems](http://www.mobile.ifi.lmu.de/), LMU Munich (2018-2024), as well as subsequent engagements.
+
+My involvement spanned a diverse range of initiatives, encompassing foundational research, applied projects in collaboration with industry partners such as Stadtwerke München (SWM) and the Fraunhofer Institute for Cognitive Systems (IKS), and significant contributions to academic community organization and outreach. Across these projects, I assumed various responsibilities, including researcher, technical lead, project communicator, conference organizer, and editorial lead.
+
+The following list provides an overview of these varied engagements, highlighting the objectives, methodologies, and outcomes associated with each initiative.
 
 ## List of Projects
-
 
 ---

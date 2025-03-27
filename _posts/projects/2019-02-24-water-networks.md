@@ -1,17 +1,31 @@
 ---
 layout: single
-title:  "Detection and localization of leakages in water networks."
+title: "ErLoWa Leak Detection"
 categories: projects
-excerpt: "We researched the possibilities of leakage detection in real-world water networks in Munich’s suburbs."
-tags: acoustic anomaly-detection 
+excerpt: "Deep learning detects acoustic water leaks with SWM."
+tags: acoustic anomaly-detection deep-learning real-world-data signal-processing
 header:
-  teaser: assets/images/projects/pipe_leak.png
+  teaser: /assets/images/projects/pipe_leak.png # Corrected path
 role: Data Scientist, Machine Learning Expert
-skills: Real-world model application
+skills: Acoustic Signal Processing, Deep Learning (CNNs), Anomaly Detection, Real-world Data Handling, Sensor Data Analysis, Industry Collaboration
 ---
-![Leaking pipe image](/assets/images/projects/pipe_leak.png){: .align-left style="padding:0.1em; width:5em"}
 
-Collaborating with Munich City Services ([Stadtwerke München (SWM)](https://www.swm.de/)), our project focused on detecting leaks in water networks. We equipped Munich's suburban infrastructure with contact microphones to capture the sounds of potential leaks.
+![Leaking pipe icon](/assets/images/projects/pipe_leak.png){: .align-left style="padding:0.1em; width:5em"}
+**Project:** ErLoWa (Erkennung von Leckagen in Wasserleitungsnetzen)<br>
+**Partner:** [Stadtwerke München (SWM)](https://www.swm.de/)<br>
+**Duration:** Late 2018 - Early 2020<br>
+**Objective:** To investigate and develop methods for the automated detection and localization of leaks in urban water distribution networks using acoustic sensor data.<br>
+
+---
+
+In collaboration with Munich's municipal utility provider, Stadtwerke München (SWM), this project explored the feasibility of using acoustic monitoring for early leak detection in water pipe infrastructure. The primary goal was to develop machine learning models capable of identifying leak-indicating sound patterns within a real-world operational environment.
+
+**Methodology & Activities:**
+
+*   **Data Acquisition:** Sensor networks comprising contact microphones were deployed across sections of Munich's suburban water network to capture continuous acoustic data.
+*   **Signal Processing:** Raw audio signals were pre-processed and transformed into mel spectrograms, converting the time-domain audio data into image-like representations suitable for analysis with computer vision techniques.
+*   **Model Development:** Various machine learning approaches were evaluated. Deep neural networks, particularly Convolutional Neural Networks (CNNs), were trained on the spectrogram data to classify segments as containing leak sounds or normal background noise.
+*   **Analysis & Validation:** The performance of the models was assessed against ground truth data provided by SWM, identifying both the successes and challenges of applying these methods in a complex, noisy, real-world setting.
 
 <center>
     <figure class="half" style="max-width: 70%; text-align:center;">
@@ -23,7 +37,12 @@ Collaborating with Munich City Services ([Stadtwerke München (SWM)](https://www
     </figure>
 </center><br>
 
-Our study highlighted technical challenges but also provided key insights. By transforming audio into mel spectrograms, we discovered that deep neural networks could identify crucial features more effectively than traditional machine learning methods, leading to further research publications.
+**Key Findings & Outcomes:**
+
+*   The project demonstrated the potential of deep learning models applied to mel spectrograms for identifying relevant acoustic features indicative of water leaks.
+*   CNN-based approaches showed advantages over traditional machine learning methods in capturing the complex patterns associated with leak sounds amidst background noise.
+*   Significant insights were gained regarding the practical challenges of sensor deployment, data quality variability, and noise interference in real-world utility networks.
+*   The research conducted within this project formed the basis for several scientific [publications](/publications) on acoustic anomaly detection. [Paper writeup](/research/acoustic-leak-detection/) for {% cite muller2021acoustic %}
 
 <center>
     <figure class="half" style="max-width: 70%; text-align:center;">
@@ -35,7 +54,6 @@ Our study highlighted technical challenges but also provided key insights. By tr
     </figure>
 </center><br>
 
-This project was active from late 2018 to early 2020.
-
+This applied research project provided valuable experience in handling real-world sensor data, adapting machine learning models for specific industrial challenges, and collaborating effectively with industry partners.
 
 {% include reference.html %}

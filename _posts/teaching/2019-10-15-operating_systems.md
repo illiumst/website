@@ -1,19 +1,49 @@
 ---
 layout: single
-title:  "Lecture: Operating Systems"
-categories: teaching 
-excerpt: "Teaching the inner working of bits and bytes."
+title: "Operating Systems TA"
+categories: teaching
+excerpt: "TA & Coordinator, Operating Systems lecture (~350 students), system programming."
 header:
-  teaser: assets/images/teaching/computer_os.png
+  teaser: /assets/images/teaching/computer_os.png
+role: Teaching Assistant, Tutorial Coordinator
+skills: System Programming Concepts (Processes, Threads, Sync, IPC, Memory Mgmt), Java Programming (Threads), Exercise Design, Examination Support, Tutorial Coordination, Large-Scale Course Organization
+duration: Winter 2018/19, Winter 2019/20
 ---
 
-![logo](\assets\images\teaching\computer_os.png){: .align-left style="padding:0.1em; width:5em"}In the semesters listed below, I assisted in organizing the "Operating Systems" lecture for 300-400 students, coordinating with a team of 10-12 tutors to manage workload.
+![Operating System Icon](/assets/images/teaching/computer_os.png){: .align-left style="padding:0.1em; width:5em" alt="Operating System Icon"}
+Following the introductory course on Computer Architecture, I also served as a Teaching Assistant and Tutorial Coordinator for the subsequent **"Betriebssysteme" (Operating Systems)** lecture at LMU Munich, taught by Prof. Dr. Linnhoff-Popien. This course typically enrolled 300-400 students per semester.
 
-### Content
+My role involved supporting the lecture and managing the associated tutorial sessions:
 
-<div class="table-right">
+*   **Tutorial Coordination:** Led a team of 10-12 student tutors, organizing their schedules and ensuring consistent support for the students' learning process.
+*   **Exercise & Examination Support:** Contributed to the development of weekly graded exercise sheets, focusing on practical application of theoretical concepts. Assisted in the preparation and administration of final examinations.
 
-| [Winter semester 2019](https://www.mobile.ifi.lmu.de/lehrveranstaltungen/bs-ws1920/)|
-| [Summer semester 2018](https://www.mobile.ifi.lmu.de/lehrveranstaltungen/bs-ws1819/)|
+The lecture built upon the foundations laid in [Computer Architecture](/teaching/computer_achitecture/), delving into core operating system and system programming concepts. Practical exercises were primarily implemented in **Java**, making extensive use of the **Thread API** to illustrate concurrency concepts.
 
-</div>We developed weekly graded exercises and exams. This lecture, a continuation of [`Computer Architecture`](teaching/computer_achitecture/) focused on system programming concepts like OS programming, synchronization, process communication, and memory management. Practical exercises used Java, particularly the Thread API, and the course concluded with distributed systems architecture. Taught by Prof. Dr. Linnhoff-Popien at [LMU Munich](https://www.mobile.ifi.lmu.de/).
+<div class="container" style="margin-top: 1.5em;">
+  <div class="sidebar" style="float: right; width: 30%; border: 0.5px grey solid; padding: 15px; margin-left: 15px; box-sizing: border-box;">
+  <h4 style="margin-top: 0;">Course Materials</h4>
+  <small>(Semesters involved)</small>
+  <ul style="list-style: none; padding-left: 0; margin-bottom: 0; font-size: smaller;">
+    <li><a href="https://www.mobile.ifi.lmu.de/lehrveranstaltungen/bs-ws1920/" target="_blank" rel="noopener noreferrer">Winter 19/20</a></li>
+    <li><a href="https://www.mobile.ifi.lmu.de/lehrveranstaltungen/bs-ws1819/" target="_blank" rel="noopener noreferrer">Winter 18/19</a></li>
+  </ul>
+  </div>
+  <div class="main-content" style="float: left; width: calc(70% - 15px); box-sizing: border-box;">
+  <h4 style="margin-top: 0;">Key Course Topics</h4>
+  The curriculum focused on:
+  <ul>
+    <li>Operating System Structures and Services</li>
+    <li>Process Management and Scheduling</li>
+    <li>Thread Management and Concurrency</li>
+    <li>Synchronization Mechanisms (Mutexes, Semaphores, Monitors)</li>
+    <li>Inter-Process Communication (IPC)</li>
+    <li>Memory Management (Paging, Segmentation, Virtual Memory)</li>
+    <li>File Systems</li>
+    <li>Introduction to Distributed Systems Architectures</li>
+  </ul>
+  </div>
+  <div style="clear: both;"></div>
+</div>
+
+  Practical exercises emphasized concurrent programming using Java Threads.
