@@ -2,7 +2,7 @@
 layout: single
 title: "RNN Memory Limits"
 categories: research deep-learning recurrent-neural-networks sequence-modeling theoretical-ml
-excerpt: "Investigated the practical limits of RNNs (vanilla, LSTM, GRU) in recalling past inputs from uncorrelated sequences via standard backpropagation."
+excerpt: "Investigated memory limits of RNNs in recalling uncorrelated sequences."
 header:
   teaser: /assets/figures/22_rnn_limits.png
 scholar_link: "https://scholar.google.de/citations?user=NODAd94AAAAJ&hl=en"

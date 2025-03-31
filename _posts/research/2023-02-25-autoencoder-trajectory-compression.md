@@ -2,7 +2,7 @@
 layout: single
 title: "Autoencoder Trajectory Compression"
 categories: research deep-learning recurrent-neural-networks trajectory-analysis data-compression geoinformatics
-excerpt: "Introduced an LSTM autoencoder approach for GPS trajectory compression, demonstrating superior reconstruction accuracy compared to Douglas-Peucker based on Fréchet distance and DTW."
+excerpt: "LSTM autoencoder better DP for trajectory compression (Fréchet/DTW)."
 header:
   teaser: /assets/figures/23_trajectory_model.png
 scholar_link: "https://scholar.google.de/citations?user=NODAd94AAAAJ&hl=en"
