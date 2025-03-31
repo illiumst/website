@@ -2,7 +2,7 @@
 layout: single
 title: "MAS Emergence Safety"
 categories: research
-tags: multi-agent-systems MARL AI-safety emergence system-specification
+tags: multi-agent-systems MARL safety emergence system-specification
 excerpt: "Formalized MAS emergence misalignment; proposed safety mitigation strategies."
 header:
   teaser: /assets/figures/21_coins_teaser.png

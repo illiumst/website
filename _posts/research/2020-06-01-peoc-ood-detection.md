@@ -2,7 +2,7 @@
 layout: single
 title: "PEOC OOD Detection"
 categories: research
-tags: deep-reinforcement-learning out-of-distribution-detection ai-safety anomaly-detection
+tags: deep-reinforcement-learning out-of-distribution-detection safety anomaly-detection
 excerpt: "PEOC uses policy entropy for OOD detection in deep RL."
 header:
   teaser: /assets/figures/6_ood_pipeline.jpg

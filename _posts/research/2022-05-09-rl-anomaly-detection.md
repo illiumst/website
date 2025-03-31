@@ -2,7 +2,7 @@
 layout: single
 title: "RL Anomaly Detection"
 categories: research
-tags: reinforcement-learning anomaly-detection ai-safety lifelong-learning generalization
+tags: reinforcement-learning anomaly-detection safety lifelong-learning generalization
 excerpt: "Perspective on anomaly detection challenges and future in reinforcement learning."
 header:
   teaser: /assets/figures/14_ad_rl_teaser.jpg
