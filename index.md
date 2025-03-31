@@ -6,11 +6,9 @@ permalink: "/"
 entries_layout: grid
 ---
 
-Welcome.
+Machine Learning Researcher and Data Science Expert with a PhD in Computer Science. Brings 6+ years of experience developing and analyzing algorithms, models and foundational research, evidenced by numerous publications. Proven ability to translate complex technical concepts into practical solutions and communicate effectively with diverse stakeholders. Loves to offer expertise in AI/ML (PyTorch), data science, and problem-solving to drive impactful results. 
 
-I am a Machine Learning Expert, Data Scientist, and Researcher specializing in areas including Data Augmentation & Synthesis, Classification & Segmentation, Anomaly & OOD Detection, and Multi-Agent Systems.
-
-This portfolio offers a comprehensive overview of my academic background, professional journey, research contributions, and technical expertise.
+This portfolio offers a detailed overview of my academic background, professional journey, research contributions, and technical expertise.
 
 <figure class="third">
   <img src="/assets/images/photo/bike.jpg" alt="Cycling equipment leaning against a wall in a garden setting.">
