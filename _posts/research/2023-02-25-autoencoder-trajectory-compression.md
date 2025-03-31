@@ -1,7 +1,8 @@
 ---
 layout: single
 title: "Autoencoder Trajectory Compression"
-categories: research deep-learning recurrent-neural-networks trajectory-analysis data-compression geoinformatics
+categories: research
+tags: deep-learning recurrent-neural-networks trajectory-analysis data-compression geoinformatics
 excerpt: "LSTM autoencoder better DP for trajectory compression (Fréchet/DTW)."
 header:
   teaser: /assets/figures/23_trajectory_model.png

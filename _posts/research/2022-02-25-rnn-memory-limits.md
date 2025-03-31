@@ -1,7 +1,8 @@
 ---
 layout: single
 title: "RNN Memory Limits"
-categories: research deep-learning recurrent-neural-networks sequence-modeling theoretical-ml
+categories: research
+tags: deep-learning recurrent-neural-networks sequence-modeling theoretical-ml
 excerpt: "Investigated memory limits of RNNs in recalling uncorrelated sequences."
 header:
   teaser: /assets/figures/22_rnn_limits.png
