@@ -11,14 +11,16 @@ skills: Acoustic Signal Processing, Deep Learning (CNNs), Anomaly Detection, Rea
 ---
 
 ![Leaking pipe icon](/assets/images/projects/pipe_leak.png){: .align-left style="padding:0.1em; width:5em"}
+In collaboration with Munich's municipal utility provider, Stadtwerke München (SWM), this project explored the feasibility of using acoustic monitoring for early leak detection in water pipe infrastructure. The primary goal was to develop machine learning models capable of identifying leak-indicating sound patterns within a real-world operational environment.
+
+---
+
 **Project:** ErLoWa (Erkennung von Leckagen in Wasserleitungsnetzen)<br>
 **Partner:** [Stadtwerke München (SWM)](https://www.swm.de/)<br>
 **Duration:** Late 2018 - Early 2020<br>
 **Objective:** To investigate and develop methods for the automated detection and localization of leaks in urban water distribution networks using acoustic sensor data.<br>
 
 ---
-
-In collaboration with Munich's municipal utility provider, Stadtwerke München (SWM), this project explored the feasibility of using acoustic monitoring for early leak detection in water pipe infrastructure. The primary goal was to develop machine learning models capable of identifying leak-indicating sound patterns within a real-world operational environment.
 
 **Methodology & Activities:**
 

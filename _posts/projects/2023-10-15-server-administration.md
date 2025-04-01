@@ -11,13 +11,16 @@ skills: Kubernetes (K3S), Ansible, Docker, CI/CD (GitLab CI, Argo CD), GitOps, L
 ---
 
 ![Arch Linux Logo](/assets/images/projects/arch.png){: .align-left style="padding:0.1em; width:5em" alt="Arch Linux Logo"}
+During my tenure at the LMU Chair for Mobile and Distributed Systems, alongside my research activities, I assumed responsibility for the ongoing maintenance of the group's IT infrastructure. This encompassed Linux workstations, Windows Server-based hypervisors, Linux file servers (utilizing ZFS), and core network services.
+
+---
+
 **Role:** IT Infrastructure & DevOps Lead (Informal)<br>
 **Affiliation:** Chair for Mobile and Distributed Systems, LMU Munich<br>
 **Duration:** 2018 - 2023 (Concurrent with Research Role)<br>
 **Objective:** Continious maintenance of IT infrastructure
 
-
-During my tenure at the LMU Chair for Mobile and Distributed Systems, alongside my research activities, I assumed responsibility for the ongoing maintenance of the group's IT infrastructure. This encompassed Linux workstations, Windows Server-based hypervisors, Linux file servers (utilizing ZFS), and core network services.
+---
 
 **Key Initiatives & Achievements:**
 
@@ -39,7 +42,7 @@ During my tenure at the LMU Chair for Mobile and Distributed Systems, alongside 
 
 *   **ML Workflow Optimization:**
     *   Re-architected the execution environment for machine learning experiments. Transitioned from managing dependencies directly on workstations or via a less reliable SLURM setup to a containerized approach using **Docker**.
-    *   Utilized the self-hosted **GitLab Container Registry** for storing ML environment images and integrated **Weights & Biases (WandB)** for robust experiment tracking, visualization, and collaboration, significantly improving reproducibility and simplifying resource management on high-performance workstations.
+    *   Utilized the self-hosted **GitLab Container Registry** for storing ML environment images.
 
 ---
 
